@@ -1,7 +1,7 @@
 In this Application i try to make a clone of tiktok with some more functionalities like :-
 You can do liveStream and the person can join the livestream by the particular id .
 You can comment like and add filters songs which is fetched by the api
-all rest is similar to the tiktok app
+all rest is similar to the tiktok app ex login signup etc
 
 Dropping some Screenshots 
 
